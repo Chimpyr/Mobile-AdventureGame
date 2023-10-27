@@ -3,7 +3,8 @@
 A mobile app created to learn mobile app development and flutter.
 
 
-#Screenshots
+# Screenshots
+
 ![phone screen of app](https://github.com/Chimpyr/Mobile-AdventureGame/blob/main/img/main2.png)
 ![phone screen of app](https://github.com/Chimpyr/Mobile-AdventureGame/blob/main/img/r1.png)
 ![phone screen of app](https://github.com/Chimpyr/Mobile-AdventureGame/blob/main/img/r2.png)
